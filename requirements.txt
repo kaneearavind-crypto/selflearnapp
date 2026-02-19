@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+pypdf
+python-pptx
+sentence-transformers
+sqlite-utils
